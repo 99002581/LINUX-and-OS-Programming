@@ -4,8 +4,8 @@
 ![cppcheck-action](https://github.com/99002581/LINUX-and-OS-Programming/workflows/cppcheck-action/badge.svg?branch=master)
 ![cppcheck-action](https://github.com/99002581/LINUX-and-OS-Programming/workflows/cppcheck-action/badge.svg?branch=master)
 
-##Mini-Project
+## Mini-Project
 Shopkeeper and Customer
 
-##Problem Statement
+## Problem Statement
 
