@@ -8,4 +8,8 @@
 Shopkeeper and Customer
 
 ## Problem Statement
+The problem describes two processes, the Shopkeeper and the customer, has a fixed-size buffer used as a queue. The Shopkeeper's job is to generate data, put it into the buffer, and start again. At the same time, the customer is consuming the data (i.e., removing it from the buffer), one piece at a time. It will also make sure that the Shopkeeper won't try to add data into the buffer if it's full and that the customer won't try to remove data from an empty buffer.
+
+## Executing File
+Run pract1.c file on Ubuntu 18.04 or later version
 
