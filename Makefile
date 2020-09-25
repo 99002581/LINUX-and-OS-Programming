@@ -1,2 +1,2 @@
 final:
-	gcc pract1.c final
+	gcc pract1.c -o final
