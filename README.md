@@ -14,7 +14,7 @@ The problem describes two processes, the Shopkeeper and the customer, has a fixe
 ## To compile the program
 Compile pract1.c file using the following command on Ubuntu 18.04 or later version:
 
--gcc pract1.c -pthread
+gcc pract1.c -pthread
 
 ## To run the program
 ./a.out
